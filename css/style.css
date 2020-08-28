@@ -250,13 +250,13 @@ header {
 
 .img-holder {
     height: 0;
-    padding-bottom: 33%;
+    padding-bottom: 25%;
     overflow: hidden;
 }
 
 @media (max-width:1200px) {
     .img-holder {
-        padding-bottom: 33%;
+        padding-bottom: 25%;
     }
 }
 
@@ -265,7 +265,7 @@ header {
         font-size: 17px;
     }
     .img-holder {
-        padding-bottom: 50%;
+        padding-bottom: 80%;
     }
 }
 
